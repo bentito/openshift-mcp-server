@@ -1,0 +1,55 @@
+evals/core-eval-testing/acp-google/eval-netedge.yaml
+  s_3afa48989e538a::t_1c8e20443229b1 11,13-15
+evals/claude-code/agent.yaml
+  s_3afa48989e538a::t_bcc7d37c3f7464 1-5
+evals/claude-code/eval.yaml
+  s_3afa48989e538a::t_bcc7d37c3f7464 1-86
+evals/tasks/netedge/get-router-config/task.yaml
+  s_3afa48989e538a::t_ec06b1c39ef9e4 6-9
+evals/openai-agent/eval.yaml
+  s_3afa48989e538a::t_bcc7d37c3f7464 1-84
+evals/tasks/netedge/get-router-info/task.yaml
+  s_3afa48989e538a::t_ba9f5b7e7a1555 6-9
+evals/gemini-agent/eval.yaml
+  s_3afa48989e538a::t_bcc7d37c3f7464 1-38
+evals/core-eval-testing/builtin-anthropic/eval-netedge.yaml
+  s_3afa48989e538a::t_46812472c15789 11,13-15
+evals/core-eval-testing/acp-anthropic/eval-netedge.yaml
+  s_3afa48989e538a::t_18ec3ae56edde9 11,13-15
+evals/tasks/netedge/get-coredns-config/offline.yaml
+  s_3afa48989e538a::t_9b47d11801604d 6-9
+evals/gemini-agent/agent.yaml
+  s_3afa48989e538a::t_bcc7d37c3f7464 1-6
+evals/core-eval-testing/builtin-google/eval-netedge.yaml
+  s_3afa48989e538a::t_1d176dae39a48e 11,13-15
+evals/openai-agent/agent.yaml
+  s_3afa48989e538a::t_bcc7d37c3f7464 1-9
+evals/tasks/netedge/get-coredns-config/task.yaml
+  s_3afa48989e538a::t_19abb8b420908a 6-9
+evals/tasks/kubevirt/claude-code/eval.yaml
+  s_3afa48989e538a::t_bcc7d37c3f7464 1-23
+evals/core-eval-testing/builtin-openai/eval-netedge.yaml
+  s_3afa48989e538a::t_fe846b8d79c33b 11,13-15
+evals/tasks/kubevirt/openai-agent/eval.yaml
+  s_3afa48989e538a::t_bcc7d37c3f7464 1-19
+evals/tasks/netedge/get-router-sessions/task.yaml
+  s_3afa48989e538a::t_20f1acfeccb541 6-9
+pkg/mcp/mustgather_offline_test.go
+  s_3afa48989e538a::t_75d4cdc0b744fe 1-92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "fbe25abc4299c0f85d9a0a2ba4fad4876fbd767c",
+  "prompts": {},
+  "sessions": {
+    "s_3afa48989e538a": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "aa304313-95c1-4910-95db-8eb2761d55f0",
+        "model": "gemini-3.5-flash"
+      },
+      "human_author": "bentito <btofel@redhat.com>"
+    }
+  }
+}
