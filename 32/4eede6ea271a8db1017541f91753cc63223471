@@ -1,0 +1,49 @@
+dev/config/mcp-configs/mustgather.toml
+  s_6064fdf426a36f::t_c3ff3ca94365af 1-3
+evals/core-eval-testing/acp-anthropic/eval-netedge.yaml
+  s_6064fdf426a36f::t_d65a6bce752f4e 1-43
+evals/core-eval-testing/acp-google/eval-netedge.yaml
+  s_6064fdf426a36f::t_1ac9334c9d0bde 1-43
+evals/core-eval-testing/builtin-anthropic/eval-netedge.yaml
+  s_6064fdf426a36f::t_205ea6b2c8c1af 1-43
+evals/core-eval-testing/builtin-google/eval-netedge.yaml
+  s_6064fdf426a36f::t_7c2f4c065d7495 1-43
+evals/core-eval-testing/builtin-openai/eval-netedge.yaml
+  s_6064fdf426a36f::t_b094c96882f69b 1-43
+evals/tasks/netedge/get-coredns-config/offline.yaml
+  s_6064fdf426a36f::t_687cf96227a080 5,10,14,16
+evals/tasks/netedge/get_service_endpoints/offline.yaml
+  s_6064fdf426a36f::t_0c2b1c08772f75 5,8,10,14,19
+evals/tasks/netedge/inspect_route/offline.yaml
+  s_6064fdf426a36f::t_25fbced0529a1c 5,8,10,14,19
+evals/tasks/netedge/inspect_route/two-archives.yaml
+  s_6064fdf426a36f::t_3a500ef8bfb57f 1-19
+evals/testdata/must-gather-second/quay-io-openshift-content-sha256-netedge/namespaces/openshift-console/routes.yaml
+  s_6064fdf426a36f::t_d0653c6d94d185 1-13
+evals/testdata/must-gather-second/quay-io-openshift-content-sha256-netedge/namespaces/openshift-dns/configmaps.yaml
+  s_6064fdf426a36f::t_8b4220a9c0403e 1-10
+evals/testdata/must-gather-second/quay-io-openshift-content-sha256-netedge/namespaces/openshift-ingress/endpointslices.yaml
+  s_6064fdf426a36f::t_b34b8c3663084b 1-14
+evals/testdata/must-gather-second/quay-io-openshift-content-sha256-netedge/timestamp
+  s_6064fdf426a36f::t_a44d298d9951cf 1
+evals/testdata/must-gather-second/quay-io-openshift-content-sha256-netedge/version
+  s_6064fdf426a36f::t_8f72c35c7367d8 1
+pkg/toolsets/mustgather/helpers.go
+  s_6064fdf426a36f::t_3ac4210a69fc25 11,13-15,30-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "324eede6ea271a8db1017541f91753cc63223471",
+  "prompts": {},
+  "sessions": {
+    "s_6064fdf426a36f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0f347-a755-7190-85e9-a666fb70d6ce",
+        "model": "unknown"
+      },
+      "human_author": "bentito <btofel@redhat.com>"
+    }
+  }
+}
