@@ -1,0 +1,21 @@
+evals/gemini-agent/agent.yaml
+  s_6064fdf426a36f::t_260777ce7973f1 6
+evals/gemini-agent/eval.yaml
+  s_6064fdf426a36f::t_335a60e77ae5d0 9-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "685a5913509ce96917ed68fc1143d9321f4526f4",
+  "prompts": {},
+  "sessions": {
+    "s_6064fdf426a36f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0f347-a755-7190-85e9-a666fb70d6ce",
+        "model": "unknown"
+      },
+      "human_author": "bentito <btofel@redhat.com>"
+    }
+  }
+}
