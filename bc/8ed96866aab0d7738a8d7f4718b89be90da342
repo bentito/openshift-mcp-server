@@ -1,0 +1,25 @@
+pkg/mcpapps/standard.js
+  s_e92173c18f513d::t_051ee4466a0904 7-9,12,289,293
+pkg/obs/auth/auth.go
+  s_e92173c18f513d::t_57d74d0d7f80a8 76-80,85
+pkg/obs/auth/auth_tls_test.go
+  s_e92173c18f513d::t_4435492ad649f3 1-53
+test/browser/standard-apps.spec.mjs
+  s_e92173c18f513d::t_ca2e454d52b096 17,28-39,343-361
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "bc8ed96866aab0d7738a8d7f4718b89be90da342",
+  "prompts": {},
+  "sessions": {
+    "s_e92173c18f513d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15a5a-9f96-7751-b15a-7930305c27ed",
+        "model": "unknown"
+      },
+      "human_author": "bentito <btofel@redhat.com>"
+    }
+  }
+}
