@@ -1,0 +1,21 @@
+pkg/mcpapps/standard.js
+  s_e92173c18f513d::t_051ee4466a0904 7-9,12,289,293
+test/browser/standard-apps.spec.mjs
+  s_e92173c18f513d::t_ca2e454d52b096 17,28-39,343-361
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "a1cc62f4325c9e339f90448eae3743a46c59a943",
+  "prompts": {},
+  "sessions": {
+    "s_e92173c18f513d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15a5a-9f96-7751-b15a-7930305c27ed",
+        "model": "unknown"
+      },
+      "human_author": "bentito <btofel@redhat.com>"
+    }
+  }
+}
